@@ -14,7 +14,7 @@
 
 Berikut adalah tautan video demo yang menunjukkan fungsionalitas aplikasi, dimulai dari ikon aplikasi di menu utama.
 
-https://github.com/user-attachments/assets/9b7e8fda-a7e3-4067-bca1-50e72e41519a
+https://github.com/user-attachments/assets/5394c9cf-b3af-4143-9a38-44f79948471c
 
 
 
