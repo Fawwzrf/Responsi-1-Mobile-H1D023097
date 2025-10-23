@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023097</string>
+    <string name="club_name">Watford FC</string>
+    <string name="club_name_history">Watford FC History</string>
+    <string name="club_desk">Watford Football Club is a professional football club based in Watford, Hertfordshire, England. The club competes in the EFL Championship, the second tier of English football.
+
+The team played at several grounds in their early history, including what is now West Herts Sports Club,[3] before moving to Vicarage Road in 1922. They have a long-standing rivalry with nearby club Luton Town.</string>
+    <string name="club_history">"The club was formed as Watford Rovers in 1881, when George Devereux de Vere Capell, Earl of Essex and owner of Cassiobury Park, gave a group of boys permission to use the grounds for football. However, the agreement stipulated that the team could not play organised competitive matches on the estate.[13] Members of the group included Henry Grover, the man later recognised as the club's founder, and Charlie Peacock, who played for Hertfordshire, became involved with board meetings at the club, and became the proprietor of the Watford Observer, the local newspaper.
+
+        Over the next five years the team participated exclusively in friendly matches against schools and local clubs.[13] Matches played when the club was not entering competitions included the first recorded fixture against future rivals Luton Town; a 1–0 home win to Watford on 5 December 1885.[14] In the 1886–87 season, Watford Rovers entered the FA Cup for the first time, although they were eliminated in their opening game.
+
+        They have competed in at least one competition in every season since.[14] From 1886 team participated in the Herts Senior Cup, a competition open to all clubs in Hertfordshire, winning it on four occasions. They also participated in the Hennessey Cup—open to clubs within a 10-mile (16 km) radius of Uxbridge—between 1888 and 1891.[15] Rovers' first match against Watford St Mary's was a 7–4 home win on 17 January 1891. The teams met on eleven further occasions prior to their merge in 1898. In total, Rovers and their successors West Hertfordshire won six times, St Mary's four times, and the remaining two matches ended in draws.
+
+        West Hertfordshire joined the Southern Football League in 1896, and started to turn professional the following year. In 1898, they merged with Watford St Mary's to become Watford Football Club. That same year, the club moved on to a ground in Cassio Road. Pressure from the owner eventually forced the manager, Harry Kent, to look for a new permanent ground which he found in 1914 at Vicarage Road, the club's home today. However, they remained at Cassio Road for a further eight years.[17] Watford won the Southern League title in 1914–15, and missed out on retaining their title in 1919–20 on goal average. Along with the rest of the division, Watford left the Southern League in 1920, becoming founder members of the Football League Third Division. In the early years the club was sponsored by Ralph Thorpe, chairman of Wells Brewery and Benskins brewery sponsored the purchase of Vicarage Road earning the team the nickname of "The Brewers". Another early nickname was "the Wasps" because of their shirts which bore coloured hoops.[17][18]"</string>
+    <string name="history">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="squad">Team Squad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
